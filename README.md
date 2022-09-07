@@ -84,7 +84,7 @@ It produces complex/strong passwords with combinations of numbers, uppercase and
 You can find all the packages and their version used in the **[requirements.txt](https://github.com/Deerah1234/Paasword-Generator/blob/main/Project/requirements.txt)** file
 
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- GETTING STARTED -->
@@ -103,7 +103,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
     
     **From Python official website: [Python](https://www.python.org/downloads/)**
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- USAGE -->
@@ -168,7 +168,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
       ```
 6. **Follow the prompts and see how the program work**
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- RUN TEST -->
@@ -185,7 +185,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
    
 2. **Follow the prompt to test**
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- CONTRIBUTORS -->
@@ -196,7 +196,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 * **[@Misheal](https://github.com/mishael-cypher)**
 * **[@Nqabenhle](https://github.com/nqabenhle)**
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- CONTRIBUTING -->
@@ -211,7 +211,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 - Submit a pull request to the master branch or the appropriate branch
 - I will be happy to review your pull request
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- SHOW YOUR SUPPORT -->
@@ -220,7 +220,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 
 Give a :star: if you like this project!.
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- CONTACT -->
@@ -231,7 +231,7 @@ Give a :star: if you like this project!.
 
 **LinkedIn**: **[@EmmanuelJames](https://www.linkedin.com/in/emmanuel-james-0418b323b/)**
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -240,7 +240,7 @@ Give a :star: if you like this project!.
 
 Thanks to the whole **Harvard University**, **CS50** team and **David Malian** for making this possible, I learnt alot from the course.
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <!-- LICENSE -->
@@ -249,7 +249,7 @@ Thanks to the whole **Harvard University**, **CS50** team and **David Malian** f
 
 This project is **[MIT](https://github.com/Deerah1234/Paasword-Generator/blob/main/LICENSE)** licensed. 
 </p>
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
 
 <h6 style="font-family:verdana;" align="center"><em>@cyiomDev - 2022<em></h6>
