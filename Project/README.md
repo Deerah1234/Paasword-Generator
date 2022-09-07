@@ -8,13 +8,13 @@
     A program that generates randomize password!
     <!-- Video Demo -->
     <br />
-    <a  style="font-family:verdana;" href="https://youtu.be/YnbQ9CF7tVo">Video Demo</a>
+    <a  style="font-family:verdana;" href="">Video Demo</a>
     ·
     <!-- Report Bug -->
-    <a style="font-family:verdana;" href="/issues">Report Bug</a>
+    <a style="font-family:verdana;" href="https://github.com/Deerah1234/Paasword-Generator/issues">Report Bug</a>
     ·
     <!-- Request Feature -->
-    <a style="font-family:verdana;" href="/issues">Request Feature</a>
+    <a style="font-family:verdana;" href="https://github.com/Deerah1234/Paasword-Generator/issues">Request Feature</a>
   </p>
 </div>
 
