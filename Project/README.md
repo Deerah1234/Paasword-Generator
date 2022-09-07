@@ -81,7 +81,7 @@ It produces complex/strong passwords with combinations of numbers, uppercase and
 <h4 style="font-family:verdana;">Packages:</h4>
 <p style="font-family:verdana;">
 
-You can find all the packages and their version used in the **[requirements.txt]()** file
+You can find all the packages and their version used in the **[requirements.txt](https://github.com/Deerah1234/Paasword-Generator/blob/main/Project/requirements.txt)** file
 
 </p>
 <p align="right"><a href="#readme-top">back to top</a></p>
@@ -93,7 +93,7 @@ You can find all the packages and their version used in the **[requirements.txt]
 <!-- DOWNLOAD -->
 <h4 style="font-family:verdana;">Download:</h4>
 
-You can **[download](https://github.com/) the source code** to run the script from the command line on Windows, macOS and Linux. **This will require [Python](https://www.python.org/downloads/).**
+You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/refs/heads/main.zip) the source code** to run the script from the command line on Windows, macOS and Linux. **This will require [Python](https://www.python.org/downloads/).**
 
 <!-- PREREQUISITES -->
 <h4 style="font-family:verdana;">Prerequisites:</h4>
@@ -116,7 +116,7 @@ You can **[download](https://github.com/) the source code** to run the script fr
 1. **Clone the repo**
 
    ```sh
-   git clone https://github.com/deerah1234/Password_Generator.git
+   git clone https://github.com/Deerah1234/Paasword-Generator.git
    ```
 
 2. **Change Directory (cd) into the repository**
@@ -148,7 +148,7 @@ You can **[download](https://github.com/) the source code** to run the script fr
       source my_venv/bin/activate
       ```
 
-4. **Download all the packages from the **[requirements.txt]()** file**
+4. **Download all the packages from the **[requirements.txt](https://github.com/Deerah1234/Paasword-Generator/blob/main/Project/requirements.txt)** file**
     - _**Windows, MacOs, Linux**_
 
       ```sh
@@ -247,7 +247,7 @@ Thanks to the whole **Harvard University**, **CS50** team and **David Malian** f
 <h3 style="font-family:verdana;">License:</h3>
 <p style="font-family:verdana;">
 
-This project is **[MIT](./)** licensed. 
+This project is **[MIT](https://github.com/Deerah1234/Paasword-Generator/blob/main/LICENSE)** licensed. 
 </p>
 <p align="right"><a href="#readme-top">back to top</a></p>
 
