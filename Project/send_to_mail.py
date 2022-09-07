@@ -14,7 +14,7 @@ console = Console()
 
 
 def sender(password: str) -> str:
-    """sender: Sends the password to the receiver.
+    """sender: Sends the password to the receiver
 
     Args:
         password (str): This is the password generated from the generate_password function in project.py.
