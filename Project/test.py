@@ -33,7 +33,7 @@ def test_generate_password() -> None:
 
 
 def test_send_password() -> None:
-    # Picked a random characters to test.
+    # Picked a random characters to test
     assert send_password("dkssj4") is not None
 
 
