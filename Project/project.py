@@ -9,7 +9,7 @@ import send_to_mail
 
 
 console = Console()
-# Letters, Numbers and Special-characters.
+# Letters, Numbers and Special-characters
 CHARS = "".join(
     (
         string.ascii_letters,
