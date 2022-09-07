@@ -141,7 +141,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 
       * Create venv
       ```shell
-      python3.9 -m venv my_env
+      python3 -m venv my_env
       ```
       * Activate venv
       ```shell
@@ -238,7 +238,7 @@ Give a :star: if you like this project!.
 <h3 style="font-family:verdana;">Acknowledgments:</h3>
 <p style="font-family:verdana;">
 
-Thanks to the whole **Harvard University**, **CS50** team and **David Malian** for making this possible, I learnt alot from the course.
+Thanks to the whole **Harvard University**, **CS50** team and **David Malian** for making this possible, I learnt alot from CS50P.
 </p>
 <p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
 
