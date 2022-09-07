@@ -5,7 +5,7 @@
   <h1 style="font-family:verdana;" align="center">Password Generator</h1>
 
   <p style="font-family:verdana;" align="center">
-    A program that generates randomize password!
+    A program that generates randomize password.
     <!-- Video Demo -->
     <br />
     <a  style="font-family:verdana;" href="">Video Demo</a>
