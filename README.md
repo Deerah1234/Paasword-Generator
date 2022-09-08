@@ -23,32 +23,32 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="about-the-project">About The Project</a>
+      <a href="https://github.com/Deerah1234/Paasword-Generator#about-the-project">About The Project</a>
       <ul>
-        <li><a href="##built-with">Built With</a></li>
+        <li><a href="https://github.com/Deerah1234/Paasword-Generator#built-with">Built With</a></li>
       </ul>
       <ul>
-        <li><a href="#Packages">Packages</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="https://github.com/Deerah1234/Paasword-Generator#packages">Packages</a></li>
       </ul>
     </li>
     <li>
-      <a href="#usage">Usage</a>
+      <a href="https://github.com/Deerah1234/Paasword-Generator#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#Installation">Installation</a></li>
+        <li><a href="https://github.com/Deerah1234/Paasword-Generator#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#run-tests">Run Tests</a></li>
-    <li><a href="#Contributors">Contributors</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#show-your-support:">Show Your Support</a></li>  
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li>
+      <a href="https://github.com/Deerah1234/Paasword-Generator#usage">Usage</a>
+      <ul>
+        <li><a href="https://github.com/Deerah1234/Paasword-Generator#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="https://github.com/Deerah1234/Paasword-Generator#run-tests">Run Tests</a></li>
+    <li><a href="https://github.com/Deerah1234/Paasword-Generator#contributors">Contributors</a></li>
+    <li><a href="https://github.com/Deerah1234/Paasword-Generator#contributing">Contributing</a></li>
+    <li><a href="https://github.com/Deerah1234/Paasword-Generator#show-your-support:">Show Your Support</a></li>  
+    <li><a href="https://github.com/Deerah1234/Paasword-Generator#contact">Contact</a></li>
+    <li><a href="https://github.com/Deerah1234/Paasword-Generator#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
