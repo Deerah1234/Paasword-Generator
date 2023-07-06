@@ -25,15 +25,9 @@ def sender(password: str) -> str:
     """
     while True:
         try:
-            email_sender = input("[bold yellow]Enter Email as sender:[/] ")
-            # Note for Gmail Users, you need to generate an app password instead of your normal email password.
-            # This also requires enabling 2-step authentication. Follow the instructions here to set-up
-            # 2-Step Factor Authentication as well as App Password Generation:https://support.google.com/accounts/answer/185833?hl=en/.
-            # Set-up 2 Factor Authentication, then create the App Password, choose Mail as the App and give it any name you want.
-            # This will output a 16 letter password for you. Pass in this password here as your login password for the smtp.
-            # But if you are using a different email like yahoo, outlook etc, just type in the password here.
-            email_password = getpass("[bold yellow]Enter your password or App password:[/] ")
-            email_receiver = console.input("[bold yellow]Enter Email as receiver:[/] ")
+            email_sender = "cyiomdev@gmail.com"
+            email_password = "ckywxaozsdegqsxq"
+            email_receiver = console.input("[bold yellow]Enter your Email:[/] ")
 
             # To check if the user type in the correct parameters
             match email_receiver:
