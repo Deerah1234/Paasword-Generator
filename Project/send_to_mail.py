@@ -25,6 +25,7 @@ def sender(password: str) -> str:
     """
     while True:
         try:
+            console.print("[bold red]Note[/][white]: If you are sending to mail, it requires an app password.[/]")
             email_sender = input("[bold yellow]Enter Email as sender:[/] ")
             # Note for Gmail Users, you need to generate an app password instead of your normal email password.
             # This also requires enabling 2-step authentication. Follow the instructions here to set-up
