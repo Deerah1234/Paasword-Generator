@@ -137,6 +137,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
       ```powershell
       .\my_venv\Scripts\activate
       ```
+      Note: On Windows, if you encounter an error while running the above command, you can temporarily fix it by running ```Set-ExecutionPolicy Unrestricted -Scope Process```
     - _**MacOs, Linux**_
 
       * Create venv
